@@ -1,5 +1,5 @@
 _repo: Henry-VI-Part-3_2256
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Great Britain -- Kings and rulers -- Drama'
 - !lcsh 'Henry VI, King of England, 1421-1471 -- Drama'
 - !lcc 'PR'
+- GITenberg
 title: Henry VI, Part 3
 url: http://www.gutenberg.org/ebooks/2256
